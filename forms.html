@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <form action="" name="form">
+    <input type="text" name="inp1">
+    <input type="text" name="inp2">
+    <input type="submit" class="btn">
+  </form>
+  <button id="but">Test</button>
+<script>
+const input = document.forms.form.inp1;
+const inp = document.querySelectorAll('input[type=text]')
+;
+let inp2 = document.querySelectorAll('input')[1];
+const btn = document.querySelector('.btn');
+const button = document.querySelector('#but');
+
+button.onclick = function(e) {
+  console.log(e)
+}
+btn.addEventListener('click', action);
+
+function action(e) {
+
+  for (let key of inp) {
+    if (!key.value) {
+      key.style.borderColor = 'red';
+    } else {
+      key.style.borderColor = null;
+
+    }
+  }
+
+  e.preventDefault();
+}
+
+
+</script>
+</body>
+</html>
