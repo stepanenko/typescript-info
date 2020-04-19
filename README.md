@@ -3,6 +3,6 @@
 by **Brad Traversy**
 
 **Description:**
-#
+
 User Management App built with Node.js and Redis which is an open source database/caching system. <br>
 We are able to add users to the system and search for them by id.
