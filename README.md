@@ -7,9 +7,9 @@ by **Brad Traversy**
 This User Management App is built with Node.js and Redis which is an open source database/caching system. <br>
 We are able to add users to the system and search for them by id. In this case we use Redis as a noSQL database.
 
-> - Install Redis: e.g. brew install redis.
-> - Run Redis Server: 'redis-server'.
-> - Then in another terminal run app.js: 'npm start' / 'node app'.
+> - Install Redis: ``brew install redis``
+> - Run Redis Server: ``redis-server``
+> - Then in another terminal run app.js: ```npm start / node app```
 
 ## Next: [Redis Caching in Node.js](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
 
