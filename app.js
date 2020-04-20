@@ -81,12 +81,12 @@ app.post('/user/add', function (req, res, next) {
 });
 
 // Delete User
-app.delete('/user/delete/:id', function(req, res, next){
+app.delete('/user/delete/:id', function (req, res, next) {
   client.del(req.params.id, function (err, reply) {
     if (err) {
       console.log(err);
     }
-    console.log(`User with ID: ${req.params.id} deleted`);
+    console.log(`User with ID: ${req.params.id} deleted`); // once deleted the redis reply = "1"
     res.redirect('/');
   });
   // res.redirect('/');
