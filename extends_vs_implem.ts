@@ -26,8 +26,13 @@ class Person {
     name: string;
     age: number;
 }
-class Child  extends Person {}
+// extends means - it gets all from its parent
+// The child class (which is extended) will inherit all the properties and methods of the class is extends
+class Child extends Person {}
 
+
+// implements is like implementing an interface. Child object can pretend that it is parent... but it does not get any implementation
+// The class which uses the implements keyword will need to implement all the properties and methods of the class which it implements
 class Man implements Person {}
 
 // Class 'Man' incorrectly implements interface 'Person'.
