@@ -7,10 +7,10 @@
 type Age = number | string;    // pipe means number OR string
 type color = "blue" | "red" | "yellow" | "purple";
 type random = 1 | 2 | 'random' | boolean;
-
-// random and color refer to user defined types, so type madness can contain anything which
-// within these types + the number 3 and string 'foo'
 type madness = random | 3 | 'foo' | color;  
+
+// random and color refer to user defined types, so type madness
+// can contain anything which within these types + the number 3 and string 'foo'
 
 type error = Error | null;
 type callBack = (err: error, res: color) => random;
