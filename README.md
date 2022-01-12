@@ -1,4 +1,9 @@
 
+# TypeScript Notes
+
+TypeScript’s motto is “JavaScript that scales.” A key part of “scales” is the language services, which are a core part of the TypeScript experience. 
+Losing them will lead to a loss in productivity, not just for you but for everyone else working with your code.
+
 ## TypeScript Videos
 
 ### [Production-Grade TypeScript](https://coursehunter.net/course/production-typescript)
