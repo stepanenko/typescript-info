@@ -5,18 +5,18 @@
 // Example:
 
 type Age = number | string;    // pipe means number OR string
-type color = "blue" | "red" | "yellow" | "purple";
-type random = 1 | 2 | 'random' | boolean;
-type madness = random | 3 | 'foo' | color;  
+type Color = "blue" | "red" | "yellow" | "purple";
+type Random = 1 | 2 | 'random' | boolean;
+type Madness = Random | 3 | 'foo' | Color;  
 
-// random and color refer to user defined types, so type madness
-// can contain anything which within these types + the number 3 and string 'foo'
+// `Random` and `Color` refer to user defined types, so
+// type `Madness` can contain anything within these types + the number 3 and string 'foo'
 
 type error = Error | null;
-type callBack = (err: error, res: color) => random;
+type CallBack = (err: error, res: Color) => Random;
 
 // You can compose types of scalar types (string, number, etc), but also of literal values like 1 or 'mystring'.
-// You can even compose types of other user-defined types. For example type madness has the types random and color in it.
+// You can even compose types of other user-defined types. For example type `Madness` has the types `Random` and `Color` in it.
 
 
 // TS docs: https://www.typescriptlang.org/docs/handbook/advanced-types.html#type-aliases
