@@ -6,25 +6,34 @@ Losing them will lead to a loss in productivity, not just for you but for everyo
 
 ## TypeScript Videos
 
+### [The Ultimate TypeScript Course](https://coursehunter.net/course/ultimate-typescript-kurs)
+
+Duration: 04:22:18, Released: 05/01/2022, Author: Mosh
+
+### [React and Typescript: Build a Portfolio Project](https://coursehunter.net/course/react-i-typescript-sozdanie-portfolio-proekta)
+
+Duration: 29:21:20, Updated: 04/10/2021, Author: Steven Grider
+
+### [Practical Advanced TypeScript](https://coursehunter.net/course/prakticheskiy-prodvinutyy-typescript)
+
+Duration: 01:02:57, Date added: 03/29/2021
+
+### [React with TypeScript](https://coursehunter.net/course/react-s-typescript)
+
+Duration: 02:00:53, Date added: 01/16/2021, Author: ui.dev
+
+### [Typescript: The Complete Developer's Guide](https://coursehunter.net/course/typescript-polnoe-rukovodstvo-razrabotchika)
+
+Duration: 24:38:03,  Updated: 01/11/2021, Author: Steven Grider
+
 ### [Production-Grade TypeScript](https://coursehunter.net/course/production-typescript)
 
-Duration: 05:10:46,  Updated: 16/11/2020
+Duration: 05:10:46,  Updated: 11/16/2020
 
 ### [TypeScript Pro (James Henry)](https://coursehunter.net/course/typescript-pro-james-henry)
 
 Duration: 06:02:19, Date added: 06/03/2020, Author: James Henry (great British accent)
 
-### [Typescript: The Complete Developer's Guide](https://coursehunter.net/course/typescript-polnoe-rukovodstvo-razrabotchika)
-
-Duration: 24:38:03,  Updated: 11/01/2021, Author: Steven Grider
-
-### [React with TypeScript](https://coursehunter.net/course/react-s-typescript)
-
-Duration: 02:00:53, Date added: 16/01/2021
-
-### [React and Typescript: Build a Portfolio Project](https://coursehunter.net/course/react-i-typescript-sozdanie-portfolio-proekta)
-
-  
 <hr>
   
 ## TypeScript Books
