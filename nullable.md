@@ -9,7 +9,7 @@ You can enable the `strictNullChecks` compiler option within your project's `tsc
   }
 }
 ```
-In strict null checking mode, null and undefined are no longer assignable to every type:
+In strict null checking mode, `null` and `undefined` are no longer assignable to every type:
 
 ```ts
 // Compiled with --strictNullChecks
@@ -32,7 +32,7 @@ isMarried = undefined; // Error
 ```
 Since types are non-nullable by default when strict null checking is enabled,
 we need to explicitly opt into nullability and tell the type checker which variables we want to be nullable.
-We do this by constructing a union type containing the null or undefined types:
+We do this by constructing a union type containing the `null` or `undefined` types:
 ```ts
 let name: string | null;
 name = "Marius";  // OK
