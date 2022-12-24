@@ -132,6 +132,10 @@ function tryDeserializeLocalStorageItem(key: string): Result {
   };
 }
 ```
+The return type `Result` is a [tagged union type](https://mariusschulz.com/blog/tagged-union-types-in-typescript) (also known as a discriminated union type).
+In other languages, it's also known as `Maybe`, `Option` or `Optional`.
+We use `Result` to cleanly model a successful and unsuccessful outcome of the operation.
+
 Callers of the tryDeserializeLocalStorageItem function have to inspect the success property before attempting to use the value or error properties:
 ```ts
 const result = tryDeserializeLocalStorageItem("dark_mode");
