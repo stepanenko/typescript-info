@@ -54,5 +54,8 @@ const name = attrs.get('name'); // is now of type string
 
 const test = attrs.get('test'); // ERROR: Argument of type '"test"' is not assignable to parameter of type '"name" | "salary"'.
 ```
+We've specified that the `get` method returns `T[K]`, which is an object lookup just like in js - it looks up the value of the key `K` in the object `T` - which in our case is the value of the key `name` from the type `EmployeeProps` which is `string`.
+
+The type of `K` can only ever be one of the keys of `T` - in our case name or salary. In other words - we can only call `get` with one of the keys of `T` - `name` or `salary`.
 
 Continue at https://bobbyhadz.com/blog/advanced-typescript-generics
