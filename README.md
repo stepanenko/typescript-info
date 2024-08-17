@@ -5,33 +5,33 @@ Losing them will lead to a loss in productivity, not just for you but for everyo
 
 ## TypeScript Videos
 
-### [The Ultimate TypeScript Course](https://coursehunter.net/course/ultimate-typescript-kurs)
+### The Ultimate TypeScript Course
 
-Duration: 04:22:18, Released: 05/01/2022, Author: Mosh
+- Duration: 04:22:18, Released: 05/01/2022, Author: Mosh
 
-### [React and Typescript: Build a Portfolio Project](https://coursehunter.net/course/react-i-typescript-sozdanie-portfolio-proekta)
+### React and Typescript: Build a Portfolio Project
 
-Duration: 29:21:20, Updated: 04/10/2021, Author: Steven Grider
+- Duration: 29:21:20, Updated: 04/10/2021, Author: Steven Grider
 
-### [Practical Advanced TypeScript](https://coursehunter.net/course/prakticheskiy-prodvinutyy-typescript)
+### Practical Advanced TypeScript
 
-Duration: 01:02:57, Date added: 03/29/2021
+- Duration: 01:02:57, Date added: 03/29/2021
 
-### [React with TypeScript](https://coursehunter.net/course/react-s-typescript)
+### React with TypeScript
 
-Duration: 02:00:53, Date added: 01/16/2021, Author: ui.dev
+- Duration: 02:00:53, Date added: 01/16/2021, Author: ui.dev
 
-### [Typescript: The Complete Developer's Guide](https://coursehunter.net/course/typescript-polnoe-rukovodstvo-razrabotchika)
+### Typescript: The Complete Developer's Guide
 
-Duration: 24:38:03,  Updated: 01/11/2021, Author: Steven Grider
+- Duration: 24:38:03,  Updated: 01/11/2021, Author: Steven Grider
 
-### [Production-Grade TypeScript](https://coursehunter.net/course/production-typescript)
+### Production-Grade TypeScript
 
-Duration: 05:10:46,  Updated: 11/16/2020
+- Duration: 05:10:46,  Updated: 11/16/2020
 
-### [TypeScript Pro (James Henry)](https://coursehunter.net/course/typescript-pro-james-henry)
+### TypeScript Pro (James Henry)
 
-Duration: 06:02:19, Date added: 06/03/2020, Author: James Henry (great British accent)
+- Duration: 06:02:19, Date added: 06/03/2020, Author: James Henry (great British accent)
 
 <hr>
   
@@ -39,11 +39,11 @@ Duration: 06:02:19, Date added: 06/03/2020, Author: James Henry (great British a
 
 ### Tackling TypeScript - Upgrading from JavaScript (is on CH)
 
-by Dr. Axel Rauschmayer, 2020
+- by Dr. Axel Rauschmayer, 2020
 
 ### Fullstack React Book - The Complete Guide to ReactJS (is on CH)
 
-by Anthony Accomazzo, Nate Murray, Ari Lerner, Clay Allsopp, David Guttman, and Tyler McGinnis
+- by Anthony Accomazzo, Nate Murray, Ari Lerner, Clay Allsopp, David Guttman, and Tyler McGinnis
 
   
 ## TypeScript Notes
