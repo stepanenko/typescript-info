@@ -5,6 +5,10 @@ Losing them will lead to a loss in productivity, not just for you but for everyo
 
 ## TypeScript Videos
 
+### TypeScript Pro Essentials
+
+- Duration: 11:02:12, Released: 07/08/2024, Author: Matt Pocock
+
 ### The Ultimate TypeScript Course
 
 - Duration: 04:22:18, Released: 05/01/2022, Author: Mosh
